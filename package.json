@@ -1,6 +1,6 @@
 {
   "name": "truncate_gradient",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "repo": "hcnn/truncate_gradient",
   "description": "Set gradient to zero for one iteration if gradient falls below a certain threshold.",
   "keywords": ["truncated gradient descent", "stopping criteria", "gradient descent", "numerical optimization"],

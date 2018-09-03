@@ -28,5 +28,5 @@ cd truncate_gradient
 make
 ```
 
-### Links
-* http://hcnn.de/docs/truncate_gradient
+### Explanations
+Further explanations in [README.ipynb](README.ipynb)
